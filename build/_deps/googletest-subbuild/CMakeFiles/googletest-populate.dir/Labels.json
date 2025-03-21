@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule"
+		},
+		{
+			"file" : "/home/luanfabiomg/Dropbox/Projetos/Resid\u00eancia Tecnol\u00f3gica/Tutorial_GTests_NAT_SWT2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

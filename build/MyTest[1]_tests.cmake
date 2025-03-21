@@ -1,0 +1,5 @@
+add_test([=[CalcTest.TestEqual]=]  [==[/home/luanfabiomg/Dropbox/Projetos/Residência Tecnológica/Tutorial_GTests_NAT_SWT2/build/MyTest]==] [==[--gtest_filter=CalcTest.TestEqual]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CalcTest.TestEqual]=]  PROPERTIES WORKING_DIRECTORY [==[/home/luanfabiomg/Dropbox/Projetos/Residência Tecnológica/Tutorial_GTests_NAT_SWT2/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[CalcTest.TestDifferent]=]  [==[/home/luanfabiomg/Dropbox/Projetos/Residência Tecnológica/Tutorial_GTests_NAT_SWT2/build/MyTest]==] [==[--gtest_filter=CalcTest.TestDifferent]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CalcTest.TestDifferent]=]  PROPERTIES WORKING_DIRECTORY [==[/home/luanfabiomg/Dropbox/Projetos/Residência Tecnológica/Tutorial_GTests_NAT_SWT2/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  MyTest_TESTS CalcTest.TestEqual CalcTest.TestDifferent)
